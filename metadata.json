@@ -1,0 +1,6 @@
+{
+  "name": "Our Story",
+  "description": "A sweet interactive space for Alihan & Beste with a memory lane, love notes, voice messages, and a relationship day counter.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
